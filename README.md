@@ -1,5 +1,4 @@
 # Naufal Information Player
-# ******************** Naufal Information Player ********************
 View Information Player QBCORE or ESX
 
 ## Features ESX
