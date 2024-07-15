@@ -271,12 +271,12 @@ elseif Config.FrameWork == 'qb-core' then
                     isMenuHeader = true,
                 },
                 {
-                    header = 'Bank: $' ..ESX.Math.GroupDigits(bank),
+                    header = 'Bank: $' ..bank,
                     icon = 'fas fa-clipboard',
                     isMenuHeader = true,
                 },
                 {
-                    header = 'Money: $' ..ESX.Math.GroupDigits(money),
+                    header = 'Money: $' ..money,
                     icon = 'fas fa-clipboard',
                     isMenuHeader = true,
                 },
